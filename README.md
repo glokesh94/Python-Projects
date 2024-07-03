@@ -18,6 +18,7 @@ This repository hosts a curated collection of Python Projects designed to help y
 ## 📚 Projects List
 
 1. [To Do List](./to_do_list) - To Do List.
+2. [Password Generator](./password_generator) - Password Generator.
 
 ---
 
